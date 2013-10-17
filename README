@@ -1,7 +1,7 @@
-bitaddress.org
-JavaScript Client-Side Bitcoin Wallet Generator
+bbqaddress.tk
+JavaScript Client-Side BBQCoin Wallet Generator
 
-Now Bitcoin addresses and their corresponding private key can be conveniently 
+Now BBQCoin addresses and their corresponding private key can be conveniently 
 generated in a web browser.
 
 The bitaddress.org project provides an all-in-one HTML document with embedded
@@ -13,9 +13,10 @@ loaded.
 Here is a link to the BitcoinTalk.org forum topic discussing this project:
 https://bitcointalk.org/index.php?topic=43496.0
 
-
-Please send DONATIONS for this project to Bitcoin Address: 
+Please send DONATIONS for this script to Bitcoin Address: 
 1NiNja1bUmhSoTXozBRBEtR8LeF9TGbZBN
+Please send DONATIONS for this project to BBQCoin Address: 
+bLvh6DYgLeUxqLV5U47BpbzooWCcVvBhVC
 
 
 END USER NOTES: 
